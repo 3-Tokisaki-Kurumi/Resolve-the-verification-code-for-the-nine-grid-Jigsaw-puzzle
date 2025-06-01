@@ -4,6 +4,10 @@
 
 A tool for automatically solving nine-grid jigsaw captchas based on image processing and edge feature matching.
 
+可以与自动化工具比如selenium等结合使用
+
+Can be used in conjunction with automation tools such as selenium
+
 ![示例结果 | Example Result](In folder test_original and test_result)
 
 ## 项目简介 | Project Introduction
