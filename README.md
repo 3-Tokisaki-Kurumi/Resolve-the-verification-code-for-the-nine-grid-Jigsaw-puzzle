@@ -95,7 +95,7 @@ if swaps:
 from nine_grid_captcha_solver import CaptchaSolver
 
 solver = CaptchaSolver()
-folder = "test_images"
+folder = "test_original"
 swaps, grid = solver.test_local_images(folder)
 
 if swaps:
