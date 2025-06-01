@@ -18,7 +18,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     # 项目主页 | Project homepage
-    url="https://github.com/username/nine-grid-captcha-solver",
+    url="https://github.com/3-Tokisaki-Kurumi/Resolve-the-verification-code-for-the-nine-grid-Jigsaw-puzzle",
     # 包含的包 | Included packages
     packages=find_packages(),
     # 分类标签 | Classification tags
