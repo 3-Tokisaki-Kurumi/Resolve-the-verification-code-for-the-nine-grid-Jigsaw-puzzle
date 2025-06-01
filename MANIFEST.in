@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+include requirements.txt
+recursive-include docs *
+recursive-include nine_grid_captcha_solver * 
