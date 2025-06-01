@@ -112,7 +112,7 @@ class CaptchaSolver:
             if src.startswith('//'):
                 url = 'https:' + src
             elif src.startswith('/'):
-                url = 'https://www.internationalsaimoe.moe' + src
+                url = 'https://example.com' + src
             else:
                 url = src
                 
