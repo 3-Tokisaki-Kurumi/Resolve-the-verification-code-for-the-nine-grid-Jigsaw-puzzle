@@ -1,8 +1,8 @@
 # 九宫格验证码破解 | Nine-Grid Captcha Solver
 
-一个基于图像处理和边缘特征匹配的九宫格拼图验证码自动求解工具。
+一个基于图像处理和边缘特征匹配的九宫格拼图验证码自动求解工具。无需训练，传统算法，准确率超过95%！
 
-A tool for automatically solving nine-grid jigsaw captchas based on image processing and edge feature matching.
+A tool for automatically solving nine-grid jigsaw captchas based on image processing and edge feature matching.No need for training, traditional algorithms have an accuracy rate of over 95%!
 
 可以与自动化工具比如selenium等结合使用
 
